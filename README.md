@@ -14,16 +14,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This task was to make a QR code look appealing on both desktop and mobile phone devices, testing my HTML and CSS skills.
+This task was to make a QR code look appealing on both desktop and mobile phone devices, testing my HTML and CSS skills. This was a challenge from Frontend Mentor [Link to Frontend Mentor](https://www.frontendmentor.io/).
 
 ### Screenshot
+
+Below is a screenshot of the final page:
 
 ![](./images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [link to solution](https://your-solution-url.com)
+- Solution URL: [link to solution](https://www.frontendmentor.io/solutions/qr-code-challenge-bhO-T1v8gU)
 - Live Site URL: [Link to the live site](https://alasow2001.github.io/QR-Code-Challenge/)
 
 ## My process
